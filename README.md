@@ -30,4 +30,4 @@ Bitcoin's daily USD closing price shows clear volatility clustering: calm period
 
 ## Report
 
-Full writeup with figures and derivations: `report.pdf`
+Full writeup with figures and derivations: `Time_Series_Analysis_Project.pdf`
